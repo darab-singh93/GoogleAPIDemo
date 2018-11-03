@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoogleAPIDemo</string>
+    <string-array name="types">
+        <item>ATM</item>
+        <item>Hospital</item>
+        <item>Temple</item>
+        <item>Food</item>
+        <item>Bank</item>
+        <item>School</item>
+        <item>College</item>
+    </string-array>
+</resources>
